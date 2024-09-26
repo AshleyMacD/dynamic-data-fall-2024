@@ -2,8 +2,6 @@
 const express = require("express")
 
 const app = express()
-// Specify static routes
-app.use(express.static('public'))
 // Import a package for handlebars
 const expressHandlebars = require('express-handlebars')
 // Make express use the hadlebars template engine
@@ -15,26 +13,15 @@ app.set('view engine','handlebars')
 const PORT = process.env.PORT || 3000
 // Process routes before errors
 app.get('/',(request,response)=>{
-    response.render('landing', {
-        title:"This is Miami.", 
-        abstract:"Miami is a great place to live.",
-        image:"miamibeach.jpg"})
+    response.render('home')
 })
 app.get('/about', (request,response)=> {
-    response.render('page', {
-        title:"About Miami",
-        abstract:"From the Miami Marlins to the Miami Heat, there's a lot to see."
-    })
+    response.render('about')
 })
-
 app.get('/nightlife', (request,response)=> {
-    response.render('page', {
-        title:"Miami at Night.",
-        abstract:"Stay away from South Beach"
-    })
+    response.type('text/plain')
+    response.send('Miami Night Life')
 })
-
-
 app.get('/food', (request,response)=> {
     response.type('text/plain')
     response.send('Miami Food')
@@ -57,7 +44,7 @@ app.use((request,response)=>{
 
  // SERVER ERROR :(
  app.use((error,request,response,next)=>{
-    console.log(error.message)
+    console.log(error.messege)
     response.status(500)
     response.render('500')
  } )
