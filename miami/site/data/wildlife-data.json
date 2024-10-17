@@ -1,0 +1,114 @@
+{
+    "title":"Wildlife In Miami",
+    "abstract":"Miami offers a vibrant mix of wildlife, from exotic birds to marine life. Whether you're visiting the wetlands or exploring the coastline, Miami provides many opportunities to experience nature up close. Explore habitats, learn about conservation, and encounter species unique to the region.",
+    "image":"/images/nightlifemain.jpg",
+    "services":[
+        {
+            
+            "title":"Guided Wildlife Tours",
+            "intro":"Explore Miami's diverse ecosystems with an expert guide. Perfect for animal enthusiasts looking to learn about the unique species in the region.",
+            "list": [
+                "Everglades Nationa Park Tours",
+                "Birdwatching Excursions",
+                "Kayak Tours through Biscayne Bay"
+            ],
+            "image":"/images/homepage/road1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Wildlife Photography Workshops",
+            "intro":"Join a professional photographer to capture Miami's beautiful wildlife in its natural habitat.",
+            "list": [
+                "Mangrove photography tours",
+                "Urban wildlife workshops",
+                "Wetlands photo expeditions"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Wildlife Rescue and Rehabilitation Centers",
+            "intro":"Visit centers that are focused on the conservation and rehabilitation of endangered species native to South Florida.",
+            "list": [
+                "Pelican Harbor Seabird Station",
+                "Miami Seaquarium",
+                "Everglades Outpost"
+            ],
+            "image":"/images/nightlife/yachtphoto.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Boat Tours for Marine Life Spotting",
+            "intro":"Take a boat ride through Miami’s waters to see dolphins, manatees, and other marine life.",
+            "list": [
+                "Biscayne Bay dolphin tours",
+                "Manatee-spotting tours",
+                "Snorkeling trips for marine wildlife viewings"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         }
+
+         
+    ],
+    
+    "packages":[
+        {
+            "title":"Everglades Day Tour",
+            "description":"Explore the Everglades with a guided tour, perfect for nature lovers.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"120",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Birdwatching in the Wetlands",
+            "description":"A morning spent spotting native birds in Miami's wetlands.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"50",
+            "duration":"3 Hours"
+        },
+
+        {
+            "title":"Marine Life Adventure",
+            "description":"Take a boat tour to discover dolphins and other marine species in Biscayne Bay.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"90",
+            "duration":"4 Hours"
+        },
+
+        {
+            "title":"Photography Expedition in the Everglades",
+            "description":"Join a professional photographer and capture stunning wildlife shots..",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"200",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Wildlife Rescue Center Visit",
+            "description":"Visit a local wildlife rehabilitation center and learn about conservation efforts.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"30",
+            "duration":"2 Hours"
+        },
+
+        {
+            "title":"Snorkeling with Sea Creatures",
+            "description":"Enjoy a guided snorkeling trip to observe underwater wildlife.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"75",
+            "duration":"3 Hours"
+        }
+    ]
+}

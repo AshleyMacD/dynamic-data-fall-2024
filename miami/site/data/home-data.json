@@ -1,6 +1,7 @@
 {
     "title":"Welcome to Miami",
-    "abstract":"This is the abstract",
+    "abstract":"Welcome to your ultimate guide to exploring Miami! Whether you're a nature enthusiast, a foodie, or a nightlife lover, this site has everything you need to make the most of your trip. Miami is a city where the wild beauty of nature meets urban excitement, and we’ve curated the best experiences to showcase it all. From breathtaking wildlife adventures in the Everglades to mouthwatering culinary tours and vibrant nightlife scenes, you’ll find endless options to fill your itinerary. We believe in making travel planning easy and fun. This website is designed to help you discover Miami’s top attractions, plan your accommodations, and find the perfect activities for every part of your stay. Whether you're here for a weekend getaway or a longer vacation, you’ll have access to custom packages and services that make your trip unique. Dive into Miami’s diverse experiences and let us guide you to an unforgettable adventure!",
+
     "image":"/images/miamibeach.jpg",
     "services":[
         {
@@ -12,7 +13,7 @@
                 "Bus",
                 "Metro Mover"
             ],
-            "image":"/images/homepage/road1.jpg"
+            "image":"/images/nightlife/clublife1.jpg"
 
     
          },
@@ -29,7 +30,31 @@
             "image":"/images/homepage/stingray.jpg"
 
     
-         }
+         },
+
+         {
+            "title":"Accommodations",
+            "intro":"From luxury hotels to budget-friendly options.",
+            "list":[
+                "The Setai, Miami Beach: A luxury hotel offering serene beachfront views, top-tier service, and a peaceful atmosphere.",
+                "Fontainebleau Miami Beach: Iconic resort with modern amenities, multiple pools, and renowned restaurants like Hakkasan.",
+                "1 Hotel South Beach: Eco-friendly luxury with spacious rooms, ocean views, and sustainability-focused features."
+            ],
+            "image":"/images/homepage/transportation.jpg"
+        },
+
+        {
+            "title":"Dining",
+            "intro":"Diverse restaurants featuring international and local cuisine.",
+            "list":[
+                "Joe's Stone Crab: A historic seafood spot, famous for its stone crabs and elegant dining experience.",
+                "Zuma: Modern Japanese restaurant offering sushi and robata dishes in a chic riverside setting.",
+                "Versailles: Iconic Cuban restaurant in Little Havana known for traditional dishes like ropa vieja and Cuban sandwiches."
+            ],
+            "image":"/images/homepage/tours.jpg"
+        }
+
+
     ],
     
     "packages":[
@@ -39,6 +64,46 @@
             "image":"/images/homepage/beachday.jpg",
             "price":"1500",
             "duration":"1 Day"
+        },
+
+        {
+            "title":"Airboat Tour",
+            "description":"Explore the natural wonders of Florida on an airboat tour!",
+            "image":"/images/homepage/beachday.jpg",
+            "price":"40",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Bus Tour",
+            "description":"Explore the wonders of downtown Miami on an bus tour!",
+            "image":"/images/homepage/beachday.jpg",
+            "price":"30",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Museum Visit",
+            "description":"Go visit one of Miami's local museums!",
+            "image":"/images/homepage/beachday.jpg",
+            "price":"20",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Miami Skyline Evening Cruise on Biscayne Bay",
+            "description":"It’s hard to beat the beauty of Miami’s skyline when it’s illuminated at night, and with this evening cruise tour, you can gain access to stunning photo opportunities and unobstructed views. Set off from Biscayne Bay and pass by islands known for their celebrity mansions—including Star Island, Fisher Island, and the Venetian Islands.",
+            "image":"/images/homepage/packages/night_cruise.jpg",
+            "price":"19.99",
+            "duration":"1 Hour 15 Minutes"
+        },
+        {
+            "title":"City Half Day Tour of Miami by Bus with Sightseeing Cruise",
+            "description":"Secure your ticket in advance, and explore Miami by land, and sea on this half-day tour by bus and boat. Hop aboard an open-top double-decker bus to explore Miami Beach, downtown Miami, Coconut Grove, Little Havana, and more.",
+            "image":"/images/homepage/packages/city.jpg",
+            "price":"39.99",
+            "duration":"5 Hours"
         }
+        
     ]
 }

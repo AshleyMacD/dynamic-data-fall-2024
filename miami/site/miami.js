@@ -28,34 +28,46 @@ const gallery = require("./data/gallery.json")
 
 app.get('/',(request,response)=>{
     console.log(gallery)
+    const data = require("./data/home-data.json")
     response.render('landing', {
         gallery,
-        title:"This is Miami.", 
-        abstract:"Miami is a great place to live.",
-        image:"miamibeach.jpg"})
+        data
+        })
 })
-app.get('/about', (request,response)=> {
-    response.render('page', {
-        title:"About Miami",
-        abstract:"Miami, known for its vibrant culture and year-round sunshine, is a city like no other. From the art deco architecture of South Beach to the multicultural vibrancy of Little Havana, Miami offers something for every traveler. Its beaches are world-renowned, with golden sands and turquoise waters, perfect for relaxation or adventure. Miami is also a hub for arts, home to galleries, museums, and an electric music scene. Whether you're here for its famed nightlife, diverse cuisine, or the natural beauty of its surrounding wildlife, Miami offers a unique blend of experiences that captivate visitors."
-    })
+app.get('/lodging', (request,response)=> {
+    console.log(gallery)
+    const data = require("./data/lodging-data.json")
+    response.render('landing', {
+        gallery,
+        data
+        })
 })
 
 app.get('/nightlife', (request,response)=> {
-    response.render('page', {
-        title:"Miami at Night.",
-        abstract:"Stay away from South Beach"
-    })
+    console.log(gallery)
+    const data = require("./data/nightlife-data.json")
+    response.render('landing', {
+        gallery,
+        data
+        })
 })
 
 
 app.get('/food', (request,response)=> {
-    response.type('text/plain')
-    response.send('Miami Food')
+    console.log(gallery)
+    const data = require("./data/food-data.json")
+    response.render('landing', {
+        gallery,
+        data
+        })
 })
 app.get('/wildlife', (request,response)=> {
-    response.type('text/plain')
-    response.send('Miami Wildlife')
+    console.log(gallery)
+    const data = require("./data/wildlife-data.json")
+    response.render('landing', {
+        gallery,
+        data
+        })
 })
 
 

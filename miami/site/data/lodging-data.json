@@ -1,0 +1,114 @@
+{
+    "title":"Lodging in Miami",
+    "abstract":"Miami offers a wide range of lodging options, from luxury beachfront resorts to charming boutique hotels. Whether you're looking for a family-friendly stay or a romantic getaway, Miami has accommodations to suit every traveler’s needs",
+    "image":"/images/nightlifemain.jpg",
+    "services":[
+        {
+            
+            "title":"Luxury Hotels",
+            "intro":"Experience the finest in Miami hospitality, complete with ocean views, spas, and gourmet dining.",
+            "list": [
+                "The Ritz-Carlton",
+                "The Setai",
+                "Faena Hotel Miami Beach"
+            ],
+            "image":"/images/homepage/road1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Boutique Hotels",
+            "intro":"Stay in unique, stylish accommodations that offer a personal touch.",
+            "list": [
+                "The Betsy South Beach",
+                "Life House Little Havana",
+                "El Paseo Hotel"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Vacation Rentals",
+            "intro":"Enjoy the comfort of home while traveling with fully equipped vacation homes and apartments.",
+            "list": [
+                "Airbnb",
+                "Vrbo",
+                "Vacasa"
+            ],
+            "image":"/images/nightlife/yachtphoto.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Eco-friendly Lodging",
+            "intro":"Stay at eco-conscious accommodations that prioritize sustainability.",
+            "list": [
+                "1 Hotel South Beach",
+                "Kimpton EPIC Hotel",
+                "The Palms Hotel & Spa"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         }
+
+         
+    ],
+    
+    "packages":[
+        {
+            "title":"Luxury Beachfront Getaway",
+            "description":"A luxurious 5-star hotel stay with direct beach access.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"500",
+            "duration":"1 Night"
+        },
+
+        {
+            "title":"Downtown Staycation",
+            "description":"A weekend stay in the heart of Miami's downtown, close to dining and nightlife.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"350",
+            "duration":"1 Night"
+        },
+
+        {
+            "title":"Family-Friendly Vacation Rental",
+            "description":"Spacious vacation homes perfect for families, complete with a pool.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"200",
+            "duration":"1 Night"
+        },
+
+        {
+            "title":"Boutique Hotel Retreat",
+            "description":"A unique and intimate stay in one of Miami’s boutique hotels.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"300",
+            "duration":"2 Days"
+        },
+
+        {
+            "title":"Eco-Friendly Hotel Package",
+            "description":"Stay at a sustainable hotel with green amenities and practices.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"400",
+            "duration":"2 Days"
+        },
+
+        {
+            "title":"Extended Stay in Little Havana",
+            "description":"Experience the culture of Little Havana with a charming extended stay option.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"1000",
+            "duration":"5 Days"
+        }
+    ]
+}

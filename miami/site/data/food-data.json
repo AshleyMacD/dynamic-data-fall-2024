@@ -1,0 +1,114 @@
+{
+    "title":"Food in Miami",
+    "abstract":"Miami’s food scene is a vibrant blend of flavors from around the world. With influences from Latin America, the Caribbean, and beyond, Miami offers a culinary experience that’s as diverse as its population. From fine dining to street food, there's something for every palate.",
+    "image":"/images/nightlifemain.jpg",
+    "services":[
+        {
+            
+            "title":"Cuban Cuisine Tours",
+            "intro":"Explore the flavors of Cuba with authentic Cuban food tours.",
+            "list": [
+                "Versailles Restaurant",
+                "La Carreta",
+                "El Rey de las Fritas"
+            ],
+            "image":"/images/homepage/road1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Food Trucks and Street Food",
+            "intro":"Sample a variety of flavors from Miami’s bustling food truck scene.",
+            "list": [
+                "Ms. Cheezious",
+                "El Bagel",
+                "The Rolling Stove"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Fine Dining",
+            "intro":"Indulge in a luxurious dining experience at Miami's top restaurants.",
+            "list": [
+                "Joe’s Stone Crab",
+                "Zuma Miami",
+                "Papi Steak"
+            ],
+            "image":"/images/nightlife/yachtphoto.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Farmers Markets",
+            "intro":"Discover fresh, local produce at one of Miami’s many farmers markets.",
+            "list": [
+                "Coconut Grove Farmers Market",
+                "Brickell City Centre Market",
+                "Upper Eastside Farmers Market"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         }
+
+         
+    ],
+    
+    "packages":[
+        {
+            "title":"Cuban Food Tasting Tour",
+            "description":"A guided tour through Little Havana to taste traditional Cuban dishes.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"65",
+            "duration":"3 Hours"
+        },
+
+        {
+            "title":"Street Food Safari",
+            "description":"A food truck tour where you can sample Miami’s most popular street eats.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"50",
+            "duration":"2 Hours"
+        },
+
+        {
+            "title":"Seafood Lovers’ Tour",
+            "description":"A seafood-focused culinary experience in Miami’s best seafood restaurants.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"90",
+            "duration":"3 Hours"
+        },
+
+        {
+            "title":"Fine Dining Experience",
+            "description":"Enjoy a curated multi-course dinner at a top-rated Miami restaurant.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"150",
+            "duration":"3 Hours"
+        },
+
+        {
+            "title":"Farm-to-Table Tour",
+            "description":"Visit local farms and markets to discover Miami's fresh and sustainable food scene.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"80",
+            "duration":"4 Hours"
+        },
+
+        {
+            "title":"Latin American Cuisine Experience",
+            "description":"Savor the rich flavors of Latin American dishes in Miami’s diverse neighborhoods.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"100",
+            "duration":"3 Hours"
+        }
+    ]
+}

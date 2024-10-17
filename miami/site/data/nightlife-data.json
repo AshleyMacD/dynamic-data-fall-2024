@@ -1,0 +1,114 @@
+{
+    "title":"Nightlife In Miami",
+    "abstract":"Miami’s nightlife is legendary, offering a blend of high-energy clubs, laid-back lounges, and live music venues. Whether you're looking to dance the night away, enjoy craft cocktails, or catch a local band, Miami has something for everyone after dark.",
+    "image":"/images/nightlifemain.jpg",
+    "services":[
+        {
+            
+            "title":"Events",
+            "intro":"Theres always stuff happening at night in Miami. Just check out these events!",
+            "list": [
+                "Fireworks",
+                "Rooftop Partys",
+                "Nighttime Swimming"
+            ],
+            "image":"/images/homepage/road1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Miami Clubs",
+            "intro":"Miami is known for its vibrant club scene, where you can dance to the beats of world-renowned DJs.",
+            "list": [
+                "Eleven",
+                "Space",
+                "Komodo"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Nighttime Yachts",
+            "intro":"Interested in the boating scene? Check out these experiances!",
+            "list": [
+                "Anchor Yacht Rental",
+                "Beach Yacht Charters",
+                "Miami Yachting Company"
+            ],
+            "image":"/images/nightlife/yachtphoto.jpg"
+
+    
+         },
+
+         {
+            
+            "title":"Theater in Miami",
+            "intro":"Less into the clubbing scene? Check out Miami's rich culture by going to the theater!",
+            "list": [
+                "Coral Gables Theater",
+                "Tower Theater",
+                "Main Street Players"
+            ],
+            "image":"/images/nightlife/clublife1.jpg"
+
+    
+         }
+
+         
+    ],
+    
+    "packages":[
+        {
+            "title":"Club Tours",
+            "description":"Wanna check out all the top clubs? This tour is for you!",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"3000",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Private Promoter",
+            "description":"Looking for a more exclusive clubbing experiance? Meet up with a promoter who will take you through the back door straight to the VIP area!",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"10000",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Nighttime Yacht Charter",
+            "description":"Want to spent your night on the water? This night time charter is for you!",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"2500",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Fireworks",
+            "description":"Fireworks happen often in Miami. Enjoy them while having a rooftop dinner.",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"250",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Theater Show",
+            "description":"Check out what's playing at the Coral Gables Theater!",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"50",
+            "duration":"1 Day"
+        },
+
+        {
+            "title":"Weekend on a Yacht",
+            "description":"Rent out a private yacht for two days!",
+            "image":"/images/nightlife/clubpackage1.jpg",
+            "price":"10000",
+            "duration":"2 Day"
+        }
+    ]
+}
