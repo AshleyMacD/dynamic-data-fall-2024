@@ -1,7 +1,7 @@
 {
     "title":"Wildlife In Miami",
     "abstract":"Miami offers a vibrant mix of wildlife, from exotic birds to marine life. Whether you're visiting the wetlands or exploring the coastline, Miami provides many opportunities to experience nature up close. Explore habitats, learn about conservation, and encounter species unique to the region.",
-    "image":"/images/nightlifemain.jpg",
+    "image":"/images/gallery/seaturtle2.jpg",
     "services":[
         {
             
@@ -12,7 +12,7 @@
                 "Birdwatching Excursions",
                 "Kayak Tours through Biscayne Bay"
             ],
-            "image":"/images/homepage/road1.jpg"
+            "image":"/images/gallery/gator2.jpg"
 
     
          },
@@ -26,7 +26,7 @@
                 "Urban wildlife workshops",
                 "Wetlands photo expeditions"
             ],
-            "image":"/images/nightlife/clublife1.jpg"
+            "image":"/images/gallery/frog1.jpg"
 
     
          },
@@ -40,7 +40,7 @@
                 "Miami Seaquarium",
                 "Everglades Outpost"
             ],
-            "image":"/images/nightlife/yachtphoto.jpg"
+            "image":"/images/gallery/seaturtle3.jpg"
 
     
          },
@@ -54,7 +54,7 @@
                 "Manatee-spotting tours",
                 "Snorkeling trips for marine wildlife viewings"
             ],
-            "image":"/images/nightlife/clublife1.jpg"
+            "image":"/images/gallery/dolphin1.jpg"
 
     
          }
@@ -66,7 +66,7 @@
         {
             "title":"Everglades Day Tour",
             "description":"Explore the Everglades with a guided tour, perfect for nature lovers.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/gallery/heron1.jpg",
             "price":"120",
             "duration":"1 Day"
         },
@@ -74,7 +74,7 @@
         {
             "title":"Birdwatching in the Wetlands",
             "description":"A morning spent spotting native birds in Miami's wetlands.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/gallery/pinkbird1.jpg",
             "price":"50",
             "duration":"3 Hours"
         },
@@ -82,7 +82,7 @@
         {
             "title":"Marine Life Adventure",
             "description":"Take a boat tour to discover dolphins and other marine species in Biscayne Bay.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/gallery/dolphin2.jpg",
             "price":"90",
             "duration":"4 Hours"
         },
@@ -90,7 +90,7 @@
         {
             "title":"Photography Expedition in the Everglades",
             "description":"Join a professional photographer and capture stunning wildlife shots..",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/gallery/gator1.jpg",
             "price":"200",
             "duration":"1 Day"
         },
@@ -98,7 +98,7 @@
         {
             "title":"Wildlife Rescue Center Visit",
             "description":"Visit a local wildlife rehabilitation center and learn about conservation efforts.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/gallery/seaturtle1.jpg",
             "price":"30",
             "duration":"2 Hours"
         },
@@ -106,7 +106,7 @@
         {
             "title":"Snorkeling with Sea Creatures",
             "description":"Enjoy a guided snorkeling trip to observe underwater wildlife.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/gallery/manatee1.jpg",
             "price":"75",
             "duration":"3 Hours"
         }

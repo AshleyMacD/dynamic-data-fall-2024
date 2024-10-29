@@ -12,7 +12,7 @@
                 "La Carreta",
                 "El Rey de las Fritas"
             ],
-            "image":"/images/homepage/road1.jpg"
+            "image":"/images/food/empanada1.jpg"
 
     
          },
@@ -26,7 +26,7 @@
                 "El Bagel",
                 "The Rolling Stove"
             ],
-            "image":"/images/nightlife/clublife1.jpg"
+            "image":"/images/food/grill2.jpg"
 
     
          },
@@ -40,7 +40,7 @@
                 "Zuma Miami",
                 "Papi Steak"
             ],
-            "image":"/images/nightlife/yachtphoto.jpg"
+            "image":"/images/food/drink1.jpg"
 
     
          },
@@ -54,7 +54,7 @@
                 "Brickell City Centre Market",
                 "Upper Eastside Farmers Market"
             ],
-            "image":"/images/nightlife/clublife1.jpg"
+            "image":"/images/food/crab2.jpg"
 
     
          }
@@ -66,7 +66,7 @@
         {
             "title":"Cuban Food Tasting Tour",
             "description":"A guided tour through Little Havana to taste traditional Cuban dishes.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/food/grill1.jpg",
             "price":"65",
             "duration":"3 Hours"
         },
@@ -74,7 +74,7 @@
         {
             "title":"Street Food Safari",
             "description":"A food truck tour where you can sample Miami’s most popular street eats.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/food/foodplate1.jpg",
             "price":"50",
             "duration":"2 Hours"
         },
@@ -82,7 +82,7 @@
         {
             "title":"Seafood Lovers’ Tour",
             "description":"A seafood-focused culinary experience in Miami’s best seafood restaurants.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/food/crab1.jpg",
             "price":"90",
             "duration":"3 Hours"
         },
@@ -90,7 +90,7 @@
         {
             "title":"Fine Dining Experience",
             "description":"Enjoy a curated multi-course dinner at a top-rated Miami restaurant.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/food/shrimpplate1.jpg",
             "price":"150",
             "duration":"3 Hours"
         },
@@ -98,7 +98,7 @@
         {
             "title":"Farm-to-Table Tour",
             "description":"Visit local farms and markets to discover Miami's fresh and sustainable food scene.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/food/keylimepie1.jpg",
             "price":"80",
             "duration":"4 Hours"
         },
@@ -106,7 +106,7 @@
         {
             "title":"Latin American Cuisine Experience",
             "description":"Savor the rich flavors of Latin American dishes in Miami’s diverse neighborhoods.",
-            "image":"/images/nightlife/clubpackage1.jpg",
+            "image":"/images/food/grill3.jpg",
             "price":"100",
             "duration":"3 Hours"
         }
