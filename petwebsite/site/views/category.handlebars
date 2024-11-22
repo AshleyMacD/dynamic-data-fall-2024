@@ -1,0 +1,26 @@
+{{>heading}}
+
+{{#each data.products}}
+
+{{>addcart}}
+
+{{this.image}}
+{{this.id}}  {{this.name}} {{this.price}}
+
+<a href="/category/{{this.category}}/details/{{this.id}}"> View product details</a> <br>
+
+
+
+
+
+
+
+    
+
+{{/each}}
+
+
+
+{{#if data.products}}
+    {{>products}}
+{{/if}}

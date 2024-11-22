@@ -1,0 +1,42 @@
+{
+
+    "title":"Cats for Adoption",
+    "abstract":"Below are the Cats for adoption",
+    "image":"/images/nightlifemain.jpg",
+
+
+    "products":[
+        {
+            "id":12,
+            "name":"Cat 1",
+            "category":"cats",
+            "description":"about cat 1",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":10,
+            "name":"Cat 2",
+            "category":"cats",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        }
+    ]
+}
+

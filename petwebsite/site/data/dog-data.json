@@ -1,0 +1,16 @@
+{
+    "title":"Dogs for Adoption",
+    "abstract":"Below are the dogs for adoption",
+    "image":"/images/nightlifemain.jpg",
+    
+    
+    "packages":[
+        {
+            "title":"Dog 1",
+            "description":"About dog 1",
+            "image":"/images/nightlife/clublife2.jpg",
+            "price":"3000",
+            "duration":"Age"
+        }
+    ]
+}

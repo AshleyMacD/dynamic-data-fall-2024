@@ -1,0 +1,16 @@
+{
+    "title":"Horses for Adoption",
+    "abstract":"Below are the horses for adoption",
+    "image":"/images/nightlifemain.jpg",
+    
+    
+    "packages":[
+        {
+            "title":"Horse 1",
+            "description":"About horse 1",
+            "image":"/images/nightlife/clublife2.jpg",
+            "price":"3000",
+            "duration":"Age"
+        }
+    ]
+}

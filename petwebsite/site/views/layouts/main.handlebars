@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    {{!-- Import CSS Styles --}}
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    {{!-- Overrides go last --}}
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/owl/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/owl/assets/owl.theme.default.min.css">
+</head>
+<body>
+    {{!-- Include a partial --}}
+    {{>nav siteName="Adoption Center" date="10/03/2024"}}
+
+
+   
+    {{!-- Default place holder for handlebars --}}
+    <div class="container">
+        {{{body}}}
+
+        
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+
+    
+
+    <script src="/js/bootstrap.bundle.js"></script>
+    <script src="/owl/owl.carousel.min.js"></script>
+    <script>
+        $('.owl-packages').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+    </script>
+
+</body>
+</html>

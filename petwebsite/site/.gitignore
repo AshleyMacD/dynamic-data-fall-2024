@@ -1,0 +1,2 @@
+# Ignore Packages installed with npm
+node_modules
