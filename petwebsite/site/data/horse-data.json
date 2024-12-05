@@ -1,16 +1,202 @@
 {
+
     "title":"Horses for Adoption",
-    "abstract":"Below are the horses for adoption",
+    "abstract":"Below are the Horses for adoption",
     "image":"/images/nightlifemain.jpg",
-    
-    
-    "packages":[
+
+
+    "products":[
         {
-            "title":"Horse 1",
-            "description":"About horse 1",
-            "image":"/images/nightlife/clublife2.jpg",
-            "price":"3000",
-            "duration":"Age"
+            "id":1,
+            "name":"Horse 1",
+            "category":"horses",
+            "description":"about cat 1",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":2,
+            "name":"Horse 2",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":3,
+            "name":"Horse 3",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":4,
+            "name":"Horse 4",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":5,
+            "name":"Horse 5",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":6,
+            "name":"Horse 6",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":7,
+            "name":"Horse 7",
+            "category":"horses",
+            "description":"about cat 1",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":8,
+            "name":"Horse 8",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":9,
+            "name":"Horse 9",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":10,
+            "name":"Horse 10",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":11,
+            "name":"Horse 11",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":12,
+            "name":"Horse 12",
+            "category":"horses",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
         }
     ]
 }
+

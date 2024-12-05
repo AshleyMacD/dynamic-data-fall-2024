@@ -1,16 +1,202 @@
 {
+
     "title":"Dogs for Adoption",
-    "abstract":"Below are the dogs for adoption",
+    "abstract":"Below are the Dogs for adoption",
     "image":"/images/nightlifemain.jpg",
-    
-    
-    "packages":[
+
+
+    "products":[
         {
-            "title":"Dog 1",
-            "description":"About dog 1",
-            "image":"/images/nightlife/clublife2.jpg",
-            "price":"3000",
-            "duration":"Age"
+            "id":1,
+            "name":"Dog 1",
+            "category":"dogs",
+            "description":"about cat 1",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":2,
+            "name":"Dog 2",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":3,
+            "name":"Dog 3",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":4,
+            "name":"Dog 4",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":5,
+            "name":"Dog 5",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":6,
+            "name":"Dog 6",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":7,
+            "name":"Dog 7",
+            "category":"dogs",
+            "description":"about cat 1",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":8,
+            "name":"Dog 8",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":9,
+            "name":"Dog 9",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":10,
+            "name":"Dog 10",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":11,
+            "name":"Dog 11",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":12,
+            "name":"Dog 12",
+            "category":"dogs",
+            "description":"about cat 2",
+            "price":12.99,
+            "image":"/images/nightlifemain.jpg",
+            "gallery": [
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg",
+                "/images/nightlifemain.jpg"
+
+            ]
+
         }
     ]
 }
+
