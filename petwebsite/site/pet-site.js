@@ -29,7 +29,7 @@ const PORT = process.env.PORT || 3000
 app.get('/',(request,response)=>{
     //console.log(gallery)
     const data = require("./data/home-data.json")
-    response.render('category', {
+    response.render('home', {
         
         data
         })
@@ -89,7 +89,7 @@ app.get('/category/:category/details/:id', (req,response)=> {
         return product.id = req.params.id 
     })
 
-    response.render('details', {"data":data, "req":req })
+    response.render('details', {"data":tempData, "req":req })
 
 
 })
