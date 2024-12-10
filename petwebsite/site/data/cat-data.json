@@ -2,23 +2,24 @@
 
    
     "title":"Cats for Adoption",
-    "abstract":"Below are the Cats for adoption",
-    "image": "/images/nightlifemain.jpg",
+    "abstract":"Meet Our Adorable Cats Looking for Their Forever Homes!",
+    "image": "/images/catbanner.png",
     
 
 
     "products":[
         {
             "id":1,
-            "name":"Cat 1",
+            "name":"Whiskers",
             "category":"cats",
-            "description":"about cat 1",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Whiskers is a curious and playful soul who loves to explore new places. She’s always up for a game of chase and enjoys being the center of attention.",
+            "price":40.00,
+            "image":"/images/cat/1cat1.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat1.jpg",
+                "/images/cat/3cat1.jpg",
+                "/images/cat/4cat1.jpg",
+                "/images/cat/1cat2.jpg"
 
             ]
 
@@ -26,15 +27,15 @@
 
         {
             "id":2,
-            "name":"Cat 2",
+            "name":"Oliver",
             "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Oliver is a calm and gentle cat who loves lounging in cozy spots. He’s incredibly affectionate and enjoys curling up with you for a peaceful nap.",
+            "price":30.00,
+            "image":"/images/cat/1cat2.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat2.jpg",
+                "/images/cat/3cat2.jpg",
+                "/images/cat/4cat2.jpg"
 
             ]
 
@@ -42,15 +43,15 @@
 
         {
             "id":3,
-            "name":"Cat 3",
+            "name":"Mittens",
             "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Mittens is a social butterfly who gets along well with everyone she meets. Her friendly demeanor makes her an ideal companion for families and other pets.",
+            "price":30.00,
+            "image":"/images/cat/1cat3.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat3.jpg",
+                "/images/cat/3cat3.jpg",
+                "/images/cat/4cat3.jpg"
 
             ]
 
@@ -58,15 +59,15 @@
 
         {
             "id":4,
-            "name":"Cat 4",
+            "name":"Luna",
             "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Luna is an independent thinker who loves her quiet time. However, once she’s comfortable, she’s quick to show her playful side and seek out cuddles.",
+            "price":50.00,
+            "image":"/images/cat/1cat4.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat4.jpg",
+                "/images/cat/3cat4.jpg",
+                "/images/cat/4cat4.jpg"
 
             ]
 
@@ -74,15 +75,15 @@
 
         {
             "id":5,
-            "name":"Cat 5",
+            "name":"Simba",
             "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Simba has an adventurous spirit and loves discovering new places to explore. He’s a confident cat who’s always eager to learn new tricks.",
+            "price":15.00,
+            "image":"/images/cat/1cat5.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat5.jpg",
+                "/images/cat/3cat5.jpg",
+                "/images/cat/4cat5.jpg"
 
             ]
 
@@ -90,15 +91,15 @@
 
         {
             "id":6,
-            "name":"Cat 6",
+            "name":"Misty",
             "category":"cats",
-            "description":"about cat 2",
+            "description":"Misty is a soft-spoken and thoughtful cat who enjoys spending her time in peaceful corners. She’s particularly fond of sitting by the window and watching the world go by.",
             "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "image":"/images/cat/1cat6.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat6.jpg",
+                "/images/cat/3cat6.jpg",
+                "/images/cat/4cat6.jpg"
 
             ]
 
@@ -106,15 +107,15 @@
 
         {
             "id":7,
-            "name":"Cat 7",
+            "name":"Charlie",
             "category":"cats",
-            "description":"about cat 1",
+            "description":"Charlie is a bundle of energy who loves playing with toys and engaging in interactive games. He’s the perfect cat for anyone looking for a playful companion.",
             "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "image":"/images/cat/1cat7.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat7.jpg",
+                "/images/cat/3cat7.jpg",
+                "/images/cat/4cat7.jpg"
 
             ]
 
@@ -122,15 +123,15 @@
 
         {
             "id":8,
-            "name":"Cat 8",
+            "name":"Cleo",
             "category":"cats",
-            "description":"about cat 2",
+            "description":"Cleo is a sweet and affectionate cat who thrives on companionship. She loves being petted and will often follow you around seeking your attention.",
             "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "image":"/images/cat/1cat8.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat8.jpg",
+                "/images/cat/3cat8.jpg",
+                "/images/cat/4cat8.jpg"
 
             ]
 
@@ -138,67 +139,18 @@
 
         {
             "id":9,
-            "name":"Cat 9",
+            "name":"Shadow",
             "category":"cats",
-            "description":"about cat 2",
+            "description":"Shadow is a quiet and introspective cat who enjoys moments of solitude. Once he’s warmed up to you, he’s a loving and loyal companion.",
             "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "image":"/images/cat/1cat9.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/cat/2cat9.jpg",
+                "/images/cat/3cat9.jpg",
+                "/images/cat/4cat9.jpg"
 
             ]
 
         },
 
-        {
-            "id":10,
-            "name":"Cat 10",
-            "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
-            "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
-
-            ]
-
-        },
-
-        {
-            "id":11,
-            "name":"Cat 11",
-            "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
-            "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
-
-            ]
-
-        },
-
-        {
-            "id":12,
-            "name":"Cat 12",
-            "category":"cats",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
-            "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
-
-            ]
-
-        }
-    ]
-}
-
+   

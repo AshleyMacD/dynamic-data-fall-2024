@@ -86,7 +86,7 @@ app.get('/category/:category/details/:id', (req,response)=> {
     
 
     tempData.products = data.products.filter((product)=>{
-        return product.id = req.params.id 
+        return product.id == req.params.id 
     })
 
     response.render('details', {"data":tempData, "req":req })
