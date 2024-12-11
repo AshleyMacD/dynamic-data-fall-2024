@@ -2,21 +2,22 @@
 
     "title":"Dogs for Adoption",
     "abstract":"Below are the Dogs for adoption",
-    "image":"/images/nightlifemain.jpg",
+    "image":"/images/dogbanner.png",
 
 
     "products":[
         {
             "id":1,
-            "name":"Dog 1",
+            "name":"Buddy",
             "category":"dogs",
-            "description":"about cat 1",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"A loyal companion who always wants to be by your side. Buddy is playful and loves being the center of attention, making him the perfect friend for active individuals or families.",
+            "price":30.00,
+            "image":"/images/dog/1dog1.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog1.jpg",
+                "/images/dog/3dog1.jpg",
+                "/images/4dog1.jpg",
+                "/images/5dog1.jpg"
 
             ]
 
@@ -24,15 +25,16 @@
 
         {
             "id":2,
-            "name":"Dog 2",
+            "name":"Bella",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Bella is calm and intuitive, always sensing the mood of the room. She enjoys being a quiet presence, offering comfort and companionship without needing much attention.",
+            "price":40.00,
+            "image":"/images/dog/1dog2.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog2.jpg",
+                "/images/dog/3dog2.jpg",
+                "/images/dog/4dog2.jpg",
+                "/images/dog/5dog2.jpg"
 
             ]
 
@@ -40,15 +42,16 @@
 
         {
             "id":3,
-            "name":"Dog 3",
+            "name":"Max",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Energetic and enthusiastic, Max is the type of dog who loves to explore. His adventurous spirit makes him an excellent travel buddy, always excited to discover new places.",
+            "price":60.00,
+            "image":"/images/dog/1dog3.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog3.jpg",
+                "/images/dog/3dog3.jpg",
+                "/images/dog/4dog3.jpg",
+                "/images/dog/5dog3.jpg"
 
             ]
 
@@ -56,15 +59,16 @@
 
         {
             "id":4,
-            "name":"Dog 4",
+            "name":"Sadie",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Sadie is affectionate and empathetic, always quick to comfort you when you’re feeling down. She has a natural ability to sense when you need some extra love and attention.",
+            "price":35.00,
+            "image":"/images/dog/1dog4.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog4.jpg",
+                "/images/dog/3dog4.jpg",
+                "/images/dog/4dog4.jpg",
+                "/images/dog/5dog4.jpg"
 
             ]
 
@@ -72,15 +76,16 @@
 
         {
             "id":5,
-            "name":"Dog 5",
+            "name":"Charlie",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Playful and mischievous, Charlie is always up for a game. His boundless energy and sense of fun make him a joy to be around, especially in a family setting.",
+            "price":20.00,
+            "image":"/images/dog/1dog5.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog5.jpg",
+                "/images/dog/3dog5.jpg",
+                "/images/dog/4dog5.jpg",
+                "/images/dog/5dog5.jpg"
 
             ]
 
@@ -88,15 +93,16 @@
 
         {
             "id":6,
-            "name":"Dog 6",
+            "name":"Daisy",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Daisy is gentle and patient, often showing a calm demeanor around children and other pets. She enjoys quiet time with her family and is the perfect companion for someone who values peace and tranquility.",
+            "price":40.00,
+            "image":"/images/dog/1dog6.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog6.jpg",
+                "/images/dog/3dog6.jpg",
+                "/images/dog/4dog6.jpg",
+                "/images/dog/5dog6.jpg"
 
             ]
 
@@ -104,15 +110,16 @@
 
         {
             "id":7,
-            "name":"Dog 7",
+            "name":"Rocky",
             "category":"dogs",
-            "description":"about cat 1",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Confident and fearless, Rocky is always up for a challenge. Whether it's learning new tricks or tackling obstacles, he thrives when given a purpose.",
+            "price":50.00,
+            "image":"/images/dog/1dog7.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog7.jpg",
+                "/images/dog/3dog7.jpg",
+                "/images/dog/4dog7.jpg",
+                "/images/dog/5dog7.jpg"
 
             ]
 
@@ -120,15 +127,16 @@
 
         {
             "id":8,
-            "name":"Dog 8",
+            "name":"Luna",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Luna is intelligent and independent, often thinking things through before making a decision. She enjoys spending time with her family but also values her space and solitude.",
+            "price":25.00,
+            "image":"/images/dog/1dog8.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog8.jpg",
+                "/images/dog/3dog8.jpg",
+                "/images/dog/4dog68jpg",
+                "/images/dog/5dog8.jpg"
 
             ]
 
@@ -136,15 +144,16 @@
 
         {
             "id":9,
-            "name":"Dog 9",
+            "name":"Cooper",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Cooper is social and loves meeting new people. His outgoing personality makes him a great dog for those who enjoy socializing, and he's always ready to make a new friend.",
+            "price":30.00,
+            "image":"/images/dog/1dog9.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog9.jpg",
+                "/images/dog/3dog9.jpg",
+                "/images/dog/4dog9.jpg",
+                "/images/dog/5dog9.jpg"
 
             ]
 
@@ -152,15 +161,16 @@
 
         {
             "id":10,
-            "name":"Dog 10",
+            "name":"Molly",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Molly is affectionate and gentle, always offering a sense of calm in any situation. Her quiet nature makes her an excellent companion for someone seeking a dog who is loving without being overly demanding.",
+            "price":40.00,
+            "image":"/images/dog/1dog10.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog10.jpg",
+                "/images/dog/3dog10.jpg",
+                "/images/dog/4dog10.jpg",
+                "/images/dog/5dog10.jpg"
 
             ]
 
@@ -168,15 +178,16 @@
 
         {
             "id":11,
-            "name":"Dog 11",
+            "name":"Finna",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Finn is intelligent and quick to learn, always eager to please. His curiosity and drive make him a great dog for training, and he thrives when given tasks to accomplish.",
+            "price":35.00,
+            "image":"/images/dog/1dog11.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog11.jpg",
+                "/images/dog/3dog11.jpg",
+                "/images/dog/4dog11.jpg",
+                "/images/dog/5dog11.jpg"
 
             ]
 
@@ -184,15 +195,16 @@
 
         {
             "id":12,
-            "name":"Dog 12",
+            "name":"Zoe",
             "category":"dogs",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Zoe is independent yet loyal, balancing time between playing and resting. She’s content with a variety of activities, from a long walk to simply hanging out with her family.",
+            "price":50.00,
+            "image":"/images/dog/1dog12.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/dog/2dog12.jpg",
+                "/images/dog/3dog12.jpg",
+                "/images/dog/4dog12.jpg",
+                "/images/dog/5dog12.jpg"
 
             ]
 

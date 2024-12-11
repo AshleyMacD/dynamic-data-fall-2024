@@ -68,12 +68,19 @@ app.get('/category/:category/details/:id', (req,response)=> {
     
     let data = {}
 
+    let isCats = false;
+    let isDogs = false;
+    let isHorses = false;
+
     if(req.params.category == "cats") {
         data = require("./data/cat-data.json")
+        isCats = true;
    } else if (req.params.category == "dogs") {
         data = require("./data/dog-data.json")
+        isDogs = true;
    } else if (req.params.category == "horses") {
         data = require("./data/horse-data.json")
+        isHorses = true;
    }
 
    console.log(data)
@@ -89,7 +96,7 @@ app.get('/category/:category/details/:id', (req,response)=> {
         return product.id == req.params.id 
     })
 
-    response.render('details', {"data":tempData, "req":req })
+    response.render('details', {"data":tempData, "req":req, isCats: isCats,  isDogs: isDogs, isHorses: isHorses })
 
 
 })

@@ -1,18 +1,17 @@
 <h1>Cart</h1>
 
+{{>form}}
+
 {{#each products}}
 
 <div class="card">
  <img src="{{this.image}}" class="card-img-top" alt="...">
  <div class="card-body">
    <h5 class="card-title">{{this.name}}</h5>
+   <h7 class="card-title">${{this.price}}</h7>
    <p class="card-text">{{this.description}}</p>
    
  </div>
 
-
-
-
-{{this.image}} {{this.id}} {{this.name}} {{this.description}} {{this.price}} <hr>
 
 {{/each}}

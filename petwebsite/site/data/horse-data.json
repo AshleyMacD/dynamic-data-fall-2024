@@ -2,21 +2,22 @@
 
     "title":"Horses for Adoption",
     "abstract":"Below are the Horses for adoption",
-    "image":"/images/nightlifemain.jpg",
+    "image":"/images/horsebanner.png",
 
 
     "products":[
         {
             "id":1,
-            "name":"Horse 1",
+            "name":"Thunderstrike",
             "category":"horses",
-            "description":"about cat 1",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Thunderstrike is a bold and fearless horse who thrives in competitive environments. Known for his quick reflexes and sharp instincts, he excels in show jumping and can often be seen leaping over obstacles with ease.",
+            "price":120.00,
+            "image":"/images/horse/1horse1.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse1.jpg",
+                "/images/horse/3horse1.jpg",
+                "/images/horse/4horse1.jpg",
+                "/images/horse/5horse1.jpg"
 
             ]
 
@@ -24,15 +25,16 @@
 
         {
             "id":2,
-            "name":"Horse 2",
+            "name":"Whisperwind",
             "category":"horses",
-            "description":"about cat 2",
+            "description":"A calm and gentle spirit, Whisperwind is known for her serene nature. She is often the horse that beginners and young riders gravitate toward, as she provides a soothing presence and is always patient and understanding.",
             "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "image":"/images/horse/1horse2.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse2.jpg",
+                "/images/horse/3horse2.jpg",
+                "/images/horse/4horse2.jpg",
+                "/images/horse/5horse2.jpg"
 
             ]
 
@@ -40,15 +42,16 @@
 
         {
             "id":3,
-            "name":"Horse 3",
+            "name":"Dusty Trails",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Dusty Trails is a free spirit who loves adventure. He’s always the first to charge into new territory, exploring unknown trails and making every ride an exciting journey. His love for wide-open spaces is unmatched.",
+            "price":100.00,
+            "image":"/images/horse/1horse3.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse3.jpg",
+                "/images/horse/3horse3.jpg",
+                "/images/horse/4horse3.jpg",
+                "/images/horse/5horse3.jpg"
 
             ]
 
@@ -56,15 +59,16 @@
 
         {
             "id":4,
-            "name":"Horse 4",
+            "name":"Midnight Gale",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Midnight Gale is a strong and independent horse who performs best under pressure. Whether it’s a race or a tough endurance trail, Gale stays focused and pushes through, no matter the challenges.",
+            "price":80.00,
+            "image":"/images/horse/1horse4.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse4.jpg",
+                "/images/horse/3horse4.jpg",
+                "/images/horse/4horse4.jpg",
+                "/images/horse/5horse4.jpg"
 
             ]
 
@@ -72,15 +76,16 @@
 
         {
             "id":5,
-            "name":"Horse 5",
+            "name":"Golden Breeze",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Golden Breeze is a horse with a heart as big as his stride. Always the first to greet riders with a nuzzle, his friendly personality and calm demeanor make him a favorite among both young and experienced riders.",
+            "price":150.00,
+            "image":"/images/horse/1horse5.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse5.jpg",
+                "/images/horse/3horse5.jpg",
+                "/images/horse/4horse5.jpg",
+                "/images/horse/5horse5.jpg"
 
             ]
 
@@ -88,15 +93,16 @@
 
         {
             "id":6,
-            "name":"Horse 6",
+            "name":"Stormy River",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Known for her powerful and energetic presence, Stormy River is a horse who thrives on action. Whether it’s barrel racing or galloping across open fields, she loves the thrill of the run and the wind in her mane.",
+            "price":130.00,
+            "image":"/images/horse/1horse6.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse6.jpg",
+                "/images/horse/3horse6.jpg",
+                "/images/horse/4horse6.jpg",
+                "/images/horse/5horse6.jpg"
 
             ]
 
@@ -104,15 +110,16 @@
 
         {
             "id":7,
-            "name":"Horse 7",
+            "name":"Willowbrook",
             "category":"horses",
-            "description":"about cat 1",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Willowbrook is a patient and thoughtful horse who enjoys slower-paced activities like trail riding and cross-country riding. His steady and reliable nature makes him the perfect companion for long rides through the countryside.",
+            "price":90.00,
+            "image":"/images/horse/1horse7.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse7.jpg",
+                "/images/horse/3horse7.jpg",
+                "/images/horse/4horse7.jpg",
+                "/images/horse/5horse7.jpg"
 
             ]
 
@@ -120,15 +127,16 @@
 
         {
             "id":8,
-            "name":"Horse 8",
+            "name":"Firefly",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Firefly is quick and spirited, with an energy that is both contagious and uplifting. Her playful and curious nature means she's always exploring new things, and her agility in the ring is simply dazzling.",
+            "price":80.00,
+            "image":"/images/horse/1horse8.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse8.jpg",
+                "/images/horse/3horse8.jpg",
+                "/images/horse/4horse8.jpg",
+                "/images/horse/5horse8.jpg"
 
             ]
 
@@ -136,15 +144,16 @@
 
         {
             "id":9,
-            "name":"Horse 9",
+            "name":"Shadowfax",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Shadowfax is an intelligent and calm horse with a keen sense of awareness. He often surprises his riders with his problem-solving ability, particularly when navigating complex obstacles or tricky terrain.",
+            "price":150.00,
+            "image":"/images/horse/1horse9.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse9.jpg",
+                "/images/horse/3horse9.jpg",
+                "/images/horse/4horse9.jpg",
+                "/images/horse/5horse9.jpg"
 
             ]
 
@@ -152,15 +161,16 @@
 
         {
             "id":10,
-            "name":"Horse 10",
+            "name":"Silver Mist",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Silver Mist is a graceful and quiet horse who enjoys solitude in wide-open spaces. Known for her easy-going temperament, she’s often seen quietly grazing in the fields or taking leisurely walks with her rider.",
+            "price":140.00,
+            "image":"/images/horse/1horse10.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse10.jpg",
+                "/images/horse/3horse10.jpg",
+                "/images/horse/4horse10.jpg",
+                "/images/horse/5horse10.jpg"
 
             ]
 
@@ -168,15 +178,16 @@
 
         {
             "id":11,
-            "name":"Horse 11",
+            "name":"Redwood Blaze",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Strong-willed and determined, Redwood Blaze is a natural leader among the herd. His confidence shines through in any event, and he’s often found at the front of the pack during competitive races.",
+            "price":160.00,
+            "image":"/images/horse/1horse11.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse11.jpg",
+                "/images/horse/3horse11.jpg",
+                "/images/horse/4horse11.jpg",
+                "/images/horse/5horse11.jpg"
 
             ]
 
@@ -184,15 +195,16 @@
 
         {
             "id":12,
-            "name":"Horse 12",
+            "name":"Moonlight Serenade",
             "category":"horses",
-            "description":"about cat 2",
-            "price":12.99,
-            "image":"/images/nightlifemain.jpg",
+            "description":"Moonlight Serenade is known for her smooth, steady gait and her tranquil demeanor. She is often the horse chosen for evening rides under the stars, bringing a peaceful and almost magical presence to the experience.",
+            "price":70.00,
+            "image":"/images/horse/1horse12.jpg",
             "gallery": [
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg",
-                "/images/nightlifemain.jpg"
+                "/images/horse/2horse12.jpg",
+                "/images/horse/3horse12.jpg",
+                "/images/horse/4horse12.jpg",
+                "/images/horse/5horse12.jpg"
 
             ]
 

@@ -19,9 +19,10 @@
                 "/images/cat/2cat1.jpg",
                 "/images/cat/3cat1.jpg",
                 "/images/cat/4cat1.jpg",
-                "/images/cat/1cat2.jpg"
+                "/images/cat/5cat1.jpg"
 
             ]
+            
 
         },
 
@@ -35,7 +36,8 @@
             "gallery": [
                 "/images/cat/2cat2.jpg",
                 "/images/cat/3cat2.jpg",
-                "/images/cat/4cat2.jpg"
+                "/images/cat/4cat2.jpg",
+                "/images/cat/5cat2.jpg"
 
             ]
 
@@ -51,7 +53,8 @@
             "gallery": [
                 "/images/cat/2cat3.jpg",
                 "/images/cat/3cat3.jpg",
-                "/images/cat/4cat3.jpg"
+                "/images/cat/4cat3.jpg",
+                "/images/cat/5cat3.jpg"
 
             ]
 
@@ -67,7 +70,8 @@
             "gallery": [
                 "/images/cat/2cat4.jpg",
                 "/images/cat/3cat4.jpg",
-                "/images/cat/4cat4.jpg"
+                "/images/cat/4cat4.jpg",
+                "/images/cat/5cat4.jpg"
 
             ]
 
@@ -83,7 +87,8 @@
             "gallery": [
                 "/images/cat/2cat5.jpg",
                 "/images/cat/3cat5.jpg",
-                "/images/cat/4cat5.jpg"
+                "/images/cat/4cat5.jpg",
+                "/images/cat/5cat5.jpg"
 
             ]
 
@@ -94,12 +99,13 @@
             "name":"Misty",
             "category":"cats",
             "description":"Misty is a soft-spoken and thoughtful cat who enjoys spending her time in peaceful corners. She’s particularly fond of sitting by the window and watching the world go by.",
-            "price":12.99,
+            "price":60.00,
             "image":"/images/cat/1cat6.jpg",
             "gallery": [
                 "/images/cat/2cat6.jpg",
                 "/images/cat/3cat6.jpg",
-                "/images/cat/4cat6.jpg"
+                "/images/cat/4cat6.jpg",
+                "/images/cat/5cat6.jpg"
 
             ]
 
@@ -110,12 +116,13 @@
             "name":"Charlie",
             "category":"cats",
             "description":"Charlie is a bundle of energy who loves playing with toys and engaging in interactive games. He’s the perfect cat for anyone looking for a playful companion.",
-            "price":12.99,
+            "price":40.00,
             "image":"/images/cat/1cat7.jpg",
             "gallery": [
                 "/images/cat/2cat7.jpg",
                 "/images/cat/3cat7.jpg",
-                "/images/cat/4cat7.jpg"
+                "/images/cat/4cat7.jpg",
+                "/images/cat/5cat7.jpg"
 
             ]
 
@@ -126,12 +133,13 @@
             "name":"Cleo",
             "category":"cats",
             "description":"Cleo is a sweet and affectionate cat who thrives on companionship. She loves being petted and will often follow you around seeking your attention.",
-            "price":12.99,
+            "price":32.00,
             "image":"/images/cat/1cat8.jpg",
             "gallery": [
                 "/images/cat/2cat8.jpg",
                 "/images/cat/3cat8.jpg",
-                "/images/cat/4cat8.jpg"
+                "/images/cat/4cat8.jpg",
+                "/images/cat/5cat8.jpg"
 
             ]
 
@@ -141,65 +149,4 @@
             "id":9,
             "name":"Shadow",
             "category":"cats",
-            "description":"Shadow is a quiet and introspective cat who enjoys moments of solitude. Once he’s warmed up to you, he’s a loving and loyal companion.",
-            "price":12.99,
-            "image":"/images/cat/1cat9.jpg",
-            "gallery": [
-                "/images/cat/2cat9.jpg",
-                "/images/cat/3cat9.jpg",
-                "/images/cat/4cat9.jpg"
-
-            ]
-
-        },
-
-        {
-            "id":10,
-            "name":"Toby",
-            "category":"cats",
-            "description":"Toby is a sociable cat who gets along well with both people and other pets. He’s full of personality and loves to be the center of attention during playtime.",
-            "price":12.99,
-            "image":"/images/cat/1cat10.jpg",
-            "gallery": [
-                "/images/cat/2cat10.jpg",
-                "/images/cat/3cat10.jpg",
-                "/images/cat/4cat10.jpg"
-
-            ]
-
-        },
-
-        {
-            "id":11,
-            "name":"Sophie",
-            "category":"cats",
-            "description":"Sophie is a gentle and patient cat who loves curling up on soft surfaces. She’s a bit shy at first but soon warms up to those who treat her with kindness.",
-            "price":12.99,
-            "image":"/images/cat/1cat11.jpg",
-            "gallery": [
-                "/images/cat/2cat11.jpg",
-                "/images/cat/3cat11.jpg",
-                "/images/cat/4cat11.jpg"
-
-            ]
-
-        },
-
-        {
-            "id":12,
-            "name":"Max",
-            "category":"cats",
-            "description":"Max is a bold and confident cat who isn’t afraid to show off his playful side. He loves chasing after toys and exploring new spots in the house.",
-            "price":12.99,
-            "image":"/images/cat/1cat12.jpg",
-            "gallery": [
-                "/images/cat/2cat12.jpg",
-                "/images/cat/3cat12.jpg",
-                "/images/cat/4cat12.jpg"
-
-            ]
-
-        }
-    ]
-}
-
+            "description":"Shadow is a quiet and introspective cat who enjoys moments of solitude. Once he’s warmed 
