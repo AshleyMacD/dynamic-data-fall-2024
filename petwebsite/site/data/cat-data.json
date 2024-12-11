@@ -149,4 +149,69 @@
             "id":9,
             "name":"Shadow",
             "category":"cats",
-            "description":"Shadow is a quiet and introspective cat who enjoys moments of solitude. Once he’s warmed 
+            "description":"Shadow is a quiet and introspective cat who enjoys moments of solitude. Once he’s warmed up to you, he’s a loving and loyal companion.",
+            "price":30.00,
+            "image":"/images/cat/1cat9.jpg",
+            "gallery": [
+                "/images/cat/2cat9.jpg",
+                "/images/cat/3cat9.jpg",
+                "/images/cat/4cat9.jpg",
+                "/images/cat/5cat9.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":10,
+            "name":"Toby",
+            "category":"cats",
+            "description":"Toby is a sociable cat who gets along well with both people and other pets. He’s full of personality and loves to be the center of attention during playtime.",
+            "price":18.00,
+            "image":"/images/cat/1cat10.jpg",
+            "gallery": [
+                "/images/cat/2cat10.jpg",
+                "/images/cat/3cat10.jpg",
+                "/images/cat/4cat10.jpg",
+                "/images/cat/5cat10.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":11,
+            "name":"Sophie",
+            "category":"cats",
+            "description":"Sophie is a gentle and patient cat who loves curling up on soft surfaces. She’s a bit shy at first but soon warms up to those who treat her with kindness.",
+            "price":25.00,
+            "image":"/images/cat/1cat11.jpg",
+            "gallery": [
+                "/images/cat/2cat11.jpg",
+                "/images/cat/3cat11.jpg",
+                "/images/cat/4cat11.jpg",
+                "/images/cat/5cat11.jpg"
+
+            ]
+
+        },
+
+        {
+            "id":12,
+            "name":"Max",
+            "category":"cats",
+            "description":"Max is a bold and confident cat who isn’t afraid to show off his playful side. He loves chasing after toys and exploring new spots in the house.",
+            "price":30.00,
+            "image":"/images/cat/1cat12.jpg",
+            "gallery": [
+                "/images/cat/2cat12.jpg",
+                "/images/cat/3cat12.jpg",
+                "/images/cat/4cat12.jpg",
+                "/images/cat/5cat12.jpg"
+
+            ]
+
+        }
+    ]
+}
+
